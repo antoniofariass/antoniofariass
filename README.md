@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm a Data Engineer at Dataside!  </h2> 
+<h2 align="left">Hi 👋! I'm a Data Engineer!  </h2> 
 
 ###
 
