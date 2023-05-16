@@ -13,6 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="42" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="42" alt="jupyter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Ddatabricks&psig=AOvVaw3WjzMhOK7Z4HqG3iDm-nYb&ust=1684355080244000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjFzODV-v4CFQAAAAAdAAAAABAJ" height="30" width="42" alt="databricks"  />
 </div>
 
 ###
